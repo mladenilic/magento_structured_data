@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Drei_StructuredData>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Drei_StructuredData>
+    </modules>
+</config>

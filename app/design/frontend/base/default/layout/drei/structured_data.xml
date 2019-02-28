@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layout version="0.1.0">
+    <cms_index_index>
+        <reference name="head">
+            <block type="drei_structureddata/organization" name="drei.structured.data.organization"/>
+        </reference>
+    </cms_index_index>
+    <catalog_product_view>
+        <reference name="head">
+            <block type="drei_structureddata/product" name="drei.structured.data.product"/>
+        </reference>
+    </catalog_product_view>
+</layout>
