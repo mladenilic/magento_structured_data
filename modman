@@ -1,0 +1,3 @@
+app/code/community/Drei/StructuredData            app/code/community/Drei/StructuredData
+app/design/frontend/base/default/layout/drei/*    app/design/frontend/base/default/layout/drei/
+app/etc/modules/*                                 app/etc/modules/
