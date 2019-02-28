@@ -41,6 +41,7 @@ class Drei_StructuredData_Block_Product extends Drei_StructuredData_Block_Abstra
         $transport = new Varien_Object($data);
         Mage::dispatchEvent('product_structured_data_prepare', array(
             'block' => $this,
+            'product' => $this->_getProduct(),
             'transport' => $transport
         ));
 
